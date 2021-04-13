@@ -22,7 +22,11 @@ Smart Trash Data: https://data.wprdc.org/datastore/dump/75b83ac9-8069-4cf1-bcc3-
 
 
 
+__Zhen__
 
+I use the dataset of public art in Pittsburgh neighborhoods. According to https://www.smartcitiesdive.com/ex/sustainablecitiescollective/how-tough-neighborhood-building-stronger-future-vivid-public-art/91756/, public art makes the neighborhoods more vibrant and improves the social environment. It is a spirit of innovation and a tag of the inner-city culture.
+
+Public Art Data: https://data.wprdc.org/dataset/city-of-pittsburgh-public-art/resource/00d74e83-8a23-486e-841b-286e1332a151?view_id=7c4a2734-ec64-46a0-95ad-39d4fe599ae0
 
 
 
